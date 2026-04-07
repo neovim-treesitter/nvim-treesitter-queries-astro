@@ -1,9 +1,9 @@
 {
+  "url": "https://github.com/virchau13/tree-sitter-astro",
+  "semver": false,
   "parser_version": "213f6e6973d9b456c6e50e86f19f66877e7ef0ee",
   "location": null,
-  "url": "https://github.com/virchau13/tree-sitter-astro",
-  "generate": null,
-  "generate_from_json": null,
   "lang": "astro",
-  "semver": false
+  "generate": null,
+  "generate_from_json": null
 }
